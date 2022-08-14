@@ -1,3 +1,7 @@
+#By TheSilverGorilla
+#Uses a linear regression model to detect anomolies by comparing training data to testing data
+#Input simulates Debian OS
+
 import subprocess
 import os
 import pathlib
